@@ -15,7 +15,7 @@ By installing this extension, we assume you accept these terms and conditions. D
 
 - **Payments**: All payments for the Premium Version license are processed securely by our third-party merchant of record, Paddle.com. By making a purchase, you agree to Paddle's terms and conditions.
 - **License Key**: Your license key is for your personal use and should not be shared or distributed. We reserve the right to revoke license keys that are found to be abused.
-- **Refunds**: Please see our [Refund Policy](https://[YOUR_GITHUB_USERNAME].github.io/SwitchToLastTab/REFUND_POLICY.html) for details on requesting a refund.
+- **Refunds**: Please see our [Refund Policy](https://github.com/SpikeousS/Switch-to-Last-Tab/blob/main/REFUND_POLICY.md) for details on requesting a refund.
 
 ### 3. Prohibited Uses
 
